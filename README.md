@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Breno Celestino!</h1>
+<h1 align="center">👋 Olá, eu sou Breno Celestino!</h1>
 
 <p align="center">
   <strong>Estudante de Engenharia da Computação</strong> no IFPB, apaixonado por <strong>Tecnologia, Cibersegurança e Inovação</strong>.
@@ -7,17 +7,16 @@
 
 ### Sobre mim
 
-- Desenvolvo projetos práticos com <strong>JavaScript</strong> e <strong>Python</strong>, como <em>CleitinBot</em> e <em>Jogo-da-Forca</em>.
-- Tenho foco em metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, além de boas práticas de segurança e infraestrutura.
-- Possuo certificações como <strong>BluePex® Certified Cybersecurity Framework Professional</strong> e <strong>Introdução à Cibersegurança pela Cisco</strong>.
-- Fui selecionado para a Etapa Estadual do <strong>Desafio Liga Jovem do Sebrae</strong> e atuo com impacto social como <strong>Agente Jovem Ambiental</strong>.
+- Amante de <strong>JavaScript</strong> e dev <strong>Python</strong> na faculdade e trabalho. Tambem ja desenvolvi um bot de Discord em Node.Js o <em>CleitinBot</em>.
+- Busco evoluir constantemente com novas certificações como <strong>BluePex® Certified Cybersecurity Framework Professional</strong> e <strong>Introdução à Cibersegurança pela Cisco</strong>, outras em meu Linkedin.
+- Fui selecionado para a Etapa Estadual do <strong>Desafio Liga Jovem do Sebrae 2025</strong> com projeto de uma plataforma digital de adoção animal construida com Google Ai Studio.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,linux,git,github,vscode" height="50" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,linux,git,github,vscode" height="50" alt="Tecnologias" />
 </p>
 
 ---
