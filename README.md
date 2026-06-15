@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Breno Celestino!</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia da Computação</strong> no IFPB, apaixonado por <strong>Tecnologia, Cibersegurança e Inovação</strong>.
+  <strong>Estudante de Engenharia da Computação 2026.1</strong> no IFPB, apaixonado por <strong>Tecnologia, Cibersegurança e Inovação</strong>.
   Busco evoluir constantemente por meio de novos desafios e aprendizado contínuo.
 </p>
 
@@ -16,7 +16,7 @@
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,linux,git,github,vscode" height="50" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,git,github,vscode" height="50" alt="Tecnologias" />
 </p>
 
 ---
